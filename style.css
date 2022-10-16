@@ -166,6 +166,7 @@ body{
 
   #planet{
       width: 100%;
+      margin-top: -21%;
   }
 
   .shift{
@@ -209,7 +210,8 @@ body{
 }
 
 #planet{
-  width: 140%;
+  width: 134%;
+    margin-top: -58%;
 }
 
 #planet-2{
