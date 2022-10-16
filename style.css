@@ -114,11 +114,13 @@ body{
     background-size: 500px;
     background-repeat: no-repeat;
     margin: 3%;
+    cursor: pointer;
+    transition: margin-top 0.2s;
 }
 
 
 .text{
-  margin: 0.5px;
+   margin: 0px; 
   font-size: small
 }
 
@@ -128,4 +130,11 @@ body{
 
 #super-div{
   display: flex;  
+}
+
+
+/* transition hover */
+
+.child:hover{
+  margin-top: 1%;
 }
