@@ -210,14 +210,16 @@ body{
 }
 
 #planet{
-  width: 134%;
-    margin-top: -58%;
+  width: 135%;
+  margin-top: -45%;
+  margin-left: 50%;
 }
 
 #planet-2{
      
   display: block;
   width: 100%;
+  margin-left: 26%;
 
 }
 
